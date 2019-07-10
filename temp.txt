@@ -17,3 +17,11 @@
 .tpaw0unavailableMessageOverlaytextTitle {font-family:"Helvetica Neue", "HelveticaNeueW01-55Roma", "HelveticaNeueW02-55Roma", "HelveticaNeueW10-55Roma", Helvetica, Arial, sans-serif;display:none;}
 .tpaw0unavailableMessageOverlay[data-state~="hideIframe"] .tpaw0unavailableMessageOverlay_buttons {opacity:1;}
 .tpaw0unavailableMessageOverlay[data-state~="hideOverlay"] {display:none;}</style></div></div>
+
+
+<p class="font_8" style="text-align:justify;"><br>
+Our workshop will cover, but not limit itself to, the following domains: autonomous vehicles and transportation infrastructure; medical CPS and public health; smart buildings, smart grid and smart cities.</p>
+
+<p class="font_8" style="text-align:justify;">&nbsp;</p>
+
+<p class="font_8" style="text-align:justify;">&nbsp;</p>
