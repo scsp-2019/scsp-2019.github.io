@@ -25,3 +25,12 @@ Our workshop will cover, but not limit itself to, the following domains: autonom
 <p class="font_8" style="text-align:justify;">&nbsp;</p>
 
 <p class="font_8" style="text-align:justify;">&nbsp;</p>
+
+
+Gmail
+username: scsp.workshop.2019@gmail.com
+Password: smartcity.s&p
+
+Github
+Username: scsp-2019
+Password: smartcity2019
